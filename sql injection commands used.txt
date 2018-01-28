@@ -1,0 +1,8 @@
+Enter username: ''
+Enter password: ' or password like '%
+                ' or password like 'k%
+
+Enter username: (nothing entered)
+enter password: ' or password like 'e%
+enter username: !@~#%
+enter password: ' or '1'='1
